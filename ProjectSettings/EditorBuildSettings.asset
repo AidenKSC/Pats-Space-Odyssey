@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 27e13b5b03cae014997cd804e937f846
+  - enabled: 1
+    path: Assets/Scenes/Earth Level.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Space Travel Stuff/Penguin/_Scenes/PenguinFlight.unity
+    guid: ab8ef5f57c6f04e42880b8b05e8278f8
+  - enabled: 1
+    path: Assets/moon.unity
+    guid: a0538d9d95107784297ae47cc300e674
+  - enabled: 1
+    path: Assets/9t5 PBR Textures Pack Freebies/Scenes/Neptune.unity
+    guid: 908f8610ae27548a5b725fde9cc390b1
+  - enabled: 1
+    path: Assets/Mars/Mars.unity
+    guid: d1d2dcb8619392d448b62998cf48f6cb
+  - enabled: 1
+    path: Assets/Scenes/Space Station.unity
+    guid: c7e8baa6bfc012d488da15eb2fc761bc
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 2842457c328dff6468c0af7b78075d5c
+  - enabled: 1
+    path: Assets/Gameover.unity
+    guid: 57f7cd4f7594df6419e226d2c05a8508
+  - enabled: 1
+    path: Assets/Win.unity
+    guid: d58efcc2dda044f4d9de06e0876ac4cf
+  - enabled: 1
+    path: Assets/Scenes/Penguin Start.unity
+    guid: 36762d35041926e43b29b106309382cd
+  - enabled: 1
+    path: Assets/Computer Menu.unity
+    guid: 43e77bbabde2c454c99b344bd73688ff
+  - enabled: 1
+    path: Assets/9t5 PBR Textures Pack Freebies/LoadComputerScreen.unity
+    guid: 397ada967be37e0498a7ea4a680f6a95
+  - enabled: 1
+    path: Assets/Video.unity
+    guid: 81e869e51cd4f1442ac5a9f0513ca5da
+  - enabled: 1
+    path: Assets/Scenes/Resume.unity
+    guid: 9484dc2a67e468c448cbbec13fdefe0e
+  - enabled: 1
+    path: Assets/Scenes/Guide.unity
+    guid: 59aee6d1caa099647906264254dd3b52
+  - enabled: 1
+    path: Assets/Scenes/Space Station Part 2.unity
+    guid: 5a49f07a19e47ba4d9c6360a7a493d71
+  m_configObjects: {}
